@@ -42,8 +42,6 @@ const apiUrl = `https://api.openweathermap.org/data/2.5/weather?q={city}&appid=$
 
 📸 Screenshots
 
-![image](https://github.com/user-attachments/assets/76cd02c2-83e9-4781-9153-ceea9e14bac5)
-
-![image](https://github.com/user-attachments/assets/91c8d607-2e9a-4b75-be8b-35d839a600ef)
+![image](https://github.com/user-attachments/assets/97b80b27-b2ff-4818-bafb-fad32e171cd2)
 
 
