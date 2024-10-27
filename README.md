@@ -7,10 +7,12 @@ Fetches real-time weather data for any city.
 Displays temperature, weather conditions, and location details.
 User-friendly interface with responsive design.
 Error handling for invalid city inputs.
+
 🛠️ Technologies Used
 HTML: Structure of the web app.
 CSS: Styling and layout for a modern UI.
 JavaScript: Fetching weather data and handling user interactions.
+
 📦 Installation and Usage
 Clone the repository:
 bash
@@ -18,6 +20,7 @@ Copy code
 git clone https://github.com/Madhumithakv/WeatherApp.git  
 cd WeatherApp  
 Open the index.html file in a browser.
+
 🌐 API Used
 This app uses the OpenWeather API to fetch weather data. Get your API key from OpenWeather.
 
@@ -26,4 +29,5 @@ javascript
 Copy code
 const apiKey = 'YOUR_API_KEY';  
 const apiUrl = `https://api.openweathermap.org/data/2.5/weather?q={city}&appid=${apiKey}`;  
+
 📸 Screenshots
