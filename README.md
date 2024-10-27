@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5800b1f4-2460-4680-ab6e-3248b156c7fd)# WheatheApp
+# WheatheApp
 🌦 WeatherApp
 
 
