@@ -1,7 +1,12 @@
-# WheatheApp
+![image](https://github.com/user-attachments/assets/5800b1f4-2460-4680-ab6e-3248b156c7fd)# WheatheApp
 🌦 WeatherApp
 
+
 A sleek and simple weather application built using HTML, CSS, and JavaScript. This app provides current weather updates for cities around the world by utilizing public APIs.
+
+Try the live version here: WeatherApp Live Demo
+
+https://madhumithakv.github.io/WheatheApp/
 
 🚀 Features
 
@@ -36,3 +41,9 @@ const apiKey = 'YOUR_API_KEY';
 const apiUrl = `https://api.openweathermap.org/data/2.5/weather?q={city}&appid=${apiKey}`;  
 
 📸 Screenshots
+
+![image](https://github.com/user-attachments/assets/76cd02c2-83e9-4781-9153-ceea9e14bac5)
+
+![image](https://github.com/user-attachments/assets/91c8d607-2e9a-4b75-be8b-35d839a600ef)
+
+
