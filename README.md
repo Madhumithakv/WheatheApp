@@ -21,14 +21,7 @@ HTML: Structure of the web app.
 CSS: Styling and layout for a modern UI.
 JavaScript: Fetching weather data and handling user interactions.
 
-📦 Installation and Usage
 
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/Madhumithakv/WeatherApp.git  
-cd WeatherApp  
-Open the index.html file in a browser.
 
 🌐 API Used
 
