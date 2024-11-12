@@ -1,4 +1,4 @@
-# WheatheApp
+# WheatherApp
 🌦 WeatherApp
 
 
