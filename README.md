@@ -34,7 +34,7 @@ const apiKey = 'YOUR_API_KEY';
 const apiUrl = `https://api.openweathermap.org/data/2.5/weather?q={city}&appid=${apiKey}`;  
 
 📸 Screenshots
+![Screenshot (470)](https://github.com/user-attachments/assets/8e48d16b-7d9c-462b-909c-d6277e15ab8f)
 
-![image](https://github.com/user-attachments/assets/97b80b27-b2ff-4818-bafb-fad32e171cd2)
 
 
